@@ -1,0 +1,7 @@
+br/com/jaxwscrudsoap/jaxwscrudsoap/App.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/util/Conexao.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/service/NoticiaSIB.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/dao/NoticiaDAO.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/dao/NoticiaDAOImpl.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/service/NoticiaSEI.class
+br/com/jaxwscrudsoap/jaxwscrudsoap/model/Noticia.class
